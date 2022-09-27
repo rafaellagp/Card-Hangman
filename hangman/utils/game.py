@@ -47,9 +47,9 @@ class Hangman():
         
     #Start_game method 
     def start_game(self):
-        ''' Starts the method will call play() until the game is over 
+        ''' Starts_game method will starst and end the game. It will call play() until the game is over 
         (because the use guessed the word or because of a game over). 
-        After that will call game_over() if lives is equal to 0 and 
+        It also call game_over() if lives is equal to 0 and 
         the well_played() method if all the letter are guessed.
         '''            
 
