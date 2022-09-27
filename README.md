@@ -1,2 +1,2 @@
-# Card-Hangman-Game
+# Card-Hangman
 A hangman game in Python.
